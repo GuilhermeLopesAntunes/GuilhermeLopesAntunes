@@ -4,6 +4,11 @@
   <p><b>Sistemas de Informação e Engenharia de Software</b></p>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=guilhermelopesantunes&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
+</div>
 <p align="center">
   <a href="https://linkedin.com/in/guilhermelantunes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,6 +19,17 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/guilhermelopesantunes/guilhermelopesantunes/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Calendar" />
+</div>
+
+---
+
+
+
+
+
 
 ### 👨‍💻 Sobre mim | About Me
 
@@ -42,11 +58,7 @@ Sou um desenvolvedor focado na construção de aplicações web escaláveis, com
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermelopesantunes&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guilhermelopesantunes/guilhermelopesantunes/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Calendar" />
-</div>
+
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermelopesantunes&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
-</div>
+
