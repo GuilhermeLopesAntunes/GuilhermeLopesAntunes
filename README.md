@@ -52,13 +52,5 @@ Sou um desenvolvedor focado na construção de aplicações web escaláveis, com
 
 ---
 
-### 📊 GitHub Stats & 3D Contributions
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermelopesantunes&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-<br>
-
-
----
 
